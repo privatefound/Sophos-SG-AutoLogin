@@ -8,9 +8,9 @@ Python 3
 
 <h4> Installation </h4>
 Clone the Repository
-<code>git clone https://github.com/privatefound/Sophos-SG-AutoLogin.git</code>
-Navigate inside the directory with <code>cd cd Sophos-SG-AutoLogin</code>
-Give login.py the permissions to be executed (if needed) with <code>sudo chmod +x login.py</code>
-Then modify the script and insert the Firewall ip that you need to log in and the password where indicated.
-<code>login('<strong>insertiphere</strong>', '<strong>insertpasswordhere</strong>');</code>
+<code>git clone https://github.com/privatefound/Sophos-SG-AutoLogin.git</code><br/>
+Navigate inside the directory with <code>cd cd Sophos-SG-AutoLogin</code><br/>
+Give login.py the permissions to be executed (if needed) with <code>sudo chmod +x login.py</code><br/>
+Then modify the script and insert the Firewall ip that you need to log in and the password where indicated.<br/>
+<code>login('<strong>insertiphere</strong>', '<strong>insertpasswordhere</strong>');</code><br/>
 Now you can execute the script <code>./login.py</code>
