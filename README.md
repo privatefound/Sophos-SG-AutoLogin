@@ -1,4 +1,4 @@
-<h1>Sophos SG AutoLogin</h1>
+<h1>Sophos SG AutoLogin</h1><img src="https://www.sophos.com/en-us/medialibrary/SophosNext/Images/Navigation/Main/about-sophos-icon.svg?la=en"/>
 
 <p>This Script permit you to access to one or more Sophos SG Firewall automatically 
 and give you the time to check the interfaces, atp and other alert on SG Dashboard</p>
